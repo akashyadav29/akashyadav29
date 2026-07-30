@@ -23,9 +23,8 @@ Passionate about automating infrastructure, building scalable cloud solutions, a
 * 💼 Assistant System Engineer at **TCS**
 * ☁️ Interested in **Cloud Computing, DevOps and Platform Engineering**
 * 🌱 Currently learning **Advanced Kubernetes, Terraform, GitOps and AWS**
-* 🐧 Linux enthusiast and automation lover
 * 🚀 Always building and experimenting with new technologies
-* 🎯 Aspiring to become a Cloud & DevOps Engineer
+* 🎯 Aspiring to become a Senior Cloud & DevOps Engineer
 
 ---
 
@@ -82,25 +81,16 @@ Passionate about automating infrastructure, building scalable cloud solutions, a
 
 <p align="left">
 
-<a href="https://github.com/akashyadav29" target="_blank">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/akash-yadav-573339204/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpMqdLrQ6Rq6shIpX3VjZfg%3D%3D" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akashops.07@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.hackerrank.com/2001641550005iot" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="48"/>
-</a>
 
-<a href="https://leetcode.com/akash2379" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="40"/>
-</a>
 
 </p>
 
