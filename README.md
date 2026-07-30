@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
 <h3 align="center">
-Assistant System Engineer @ TCS • DevOps & Cloud Enthusiast
+Assistant Systems Engineer @ TCS • DevOps & Cloud Enthusiast
 </h3>
 
 <p align="center">
@@ -20,11 +20,11 @@ Passionate about automating infrastructure, building scalable cloud solutions, a
 
 ## 👨‍💻 About Me
 
-* 💼 Assistant System Engineer at **TCS**
+* 💼 Assistant Systems Engineer at **TCS**
 * ☁️ Interested in **Cloud Computing, DevOps and Platform Engineering**
 * 🌱 Currently learning **Advanced Kubernetes, Terraform, GitOps and AWS**
 * 🚀 Always building and experimenting with new technologies
-* 🎯 Aspiring to become a Senior Cloud & DevOps Engineer
+* 🎯 Aspiring to become a Senior DevOps / Cloud Engineer
 
 ---
 
