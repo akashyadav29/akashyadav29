@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=280&section=header&text=Akash%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Docker&descAlignY=58"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212897782-965815ac-b9b8-4f43-9c4b-3d1638935c00.gif" alt="Coding Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -14,68 +16,63 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
 - 💼 Assistant System Engineer at **TCS**
-- ☁️ Passionate about **Cloud Computing & DevOps**
+- ☁️ Passionate about **Cloud & DevOps**
 - 🌱 Currently learning **Advanced Kubernetes, Terraform & GitOps**
-- 🚀 Interested in **AWS, Kubernetes, CI/CD, Linux & Automation**
-- 🎯 Goal: Become a Cloud & DevOps Engineer
+- 🚀 Interested in AWS, Kubernetes, Docker, CI/CD and Linux
+- 🎯 Goal: Become a Senior DevOps / Cloud Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx&perline=5"/>
-</p>
-
-### 💻 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
-</p>
-
-### 📊 Monitoring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx,prometheus,grafana,python,c,cpp,mysql&perline=8"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashyadav29&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav29&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akashyadav29&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=akashyadav29&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav29&theme=github-compact&hide_border=true"/>
+</p>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -88,20 +85,21 @@
 </a>
 
 <a href="https://leetcode.com/akash2379">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="42"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashyadav29&theme=github_dark"/>
+</p>
 
-### 💡 Favorite Quote
+---
 
-*"Automate repetitive work. Focus on solving problems."*
+<h3 align="center">💻 "Automate Everything. Deploy with Confidence."</h3>
 
-⭐ Thanks for visiting my profile!
-
-</div>
-```
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
