@@ -96,9 +96,9 @@ Passionate about automating infrastructure, building scalable cloud solutions, a
 
 ---
 
-## 💬 Favorite Quote
+⭐ Quote
 
-> *"Automate the repetitive, learn continuously, and build things that scale."*
+"First automate it. Then optimize it."
 
 ---
 
