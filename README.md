@@ -56,27 +56,6 @@ Passionate about automating infrastructure, building scalable cloud solutions, a
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashyadav29&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav29&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashyadav29&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
