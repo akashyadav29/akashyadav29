@@ -1,32 +1,34 @@
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212897782-965815ac-b9b8-4f43-9c4b-3d1638935c00.gif" alt="Coding Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:232526&height=250&section=header&text=Akash%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Docker&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform</h3>
+<h3 align="center">
+DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashyadav29&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=akashyadav29&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
 - 💼 Assistant System Engineer at **TCS**
-- ☁️ Passionate about **Cloud & DevOps**
+- ☁️ Passionate about **Cloud Computing & DevOps**
 - 🌱 Currently learning **Advanced Kubernetes, Terraform & GitOps**
-- 🚀 Interested in AWS, Kubernetes, Docker, CI/CD and Linux
+- 🚀 Interested in **AWS, Docker, Kubernetes, Linux & CI/CD**
 - 🎯 Goal: Become a Senior DevOps / Cloud Engineer
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx,prometheus,grafana,python,c,cpp,mysql&perline=8"/>
@@ -34,29 +36,33 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashyadav29&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav29&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=akashyadav29&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav29&theme=github-compact&hide_border=true"/>
@@ -64,7 +70,7 @@
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -72,7 +78,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -92,14 +98,11 @@
 
 ---
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashyadav29&theme=github_dark"/>
-</p>
-
----
-
-<h3 align="center">💻 "Automate Everything. Deploy with Confidence."</h3>
+<h3 align="center">
+💻 "Automate Everything. Deploy with Confidence."
+</h3>
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
+```
