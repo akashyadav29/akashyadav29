@@ -1,54 +1,61 @@
-# <div align="center">Hi 👋 I'm Akash Yadav</div>
+```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=280&section=header&text=Akash%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Docker&descAlignY=58"/>
+</p>
 
-<div align="center">
-
-### 🚀 DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform
-
-Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
-
-</div>
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashyadav29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashyadav29&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Assistant System Engineer at **TCS**
-* ☁️ Passionate about **Cloud, DevOps & Platform Engineering**
-* 🌱 Currently learning **Advanced Kubernetes, Terraform & GitOps**
-* 🔭 Building cloud-native projects on **AWS**
-* ⚡ Love Linux, Automation and CI/CD
+- 💼 Assistant System Engineer at **TCS**
+- ☁️ Passionate about **Cloud Computing & DevOps**
+- 🌱 Currently learning **Advanced Kubernetes, Terraform & GitOps**
+- 🚀 Interested in **AWS, Kubernetes, CI/CD, Linux & Automation**
+- 🎯 Goal: Become a Cloud & DevOps Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx,prometheus,grafana&perline=6"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux,bash,nginx&perline=5"/>
 </p>
 
-### Programming
+### 💻 Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
+</p>
+
+### 📊 Monitoring
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashyadav29&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav29&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashyadav29&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav29&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashyadav29&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=akashyadav29&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -56,7 +63,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashyadav29&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -65,24 +72,24 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/akashyadav29">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/2001641550005iot">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="45"/>
 </a>
 
 <a href="https://leetcode.com/akash2379">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="42"/>
 </a>
 
 </p>
@@ -91,8 +98,11 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 <div align="center">
 
-### ⭐ *"Automate everything that can be automated."*
+### 💡 Favorite Quote
 
-Thanks for visiting my profile! 🚀
+*"Automate repetitive work. Focus on solving problems."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
+```
